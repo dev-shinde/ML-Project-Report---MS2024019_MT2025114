@@ -3,7 +3,7 @@
 This repository contains the complete implementation, analysis, and experimentation workflow for the **Obesity Classification Machine Learning Project**.  
 The project explores how demographic, behavioral, and lifestyle attributes contribute to predicting different obesity levels using multiple machine learning models, with **XGBoost** emerging as the most robust and optimized model.
 
-This work was conducted as part of the **Machine Learning (AIM 511)** course at the **International Institute of Information Technology, Bangalore (IIITB)**.
+This work was conducted as part of the **Machine Learning (AIM 511)** Course Project at the **International Institute of Information Technology, Bangalore (IIITB)**.
 
 ---
 
