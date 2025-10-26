@@ -1,0 +1,14 @@
+final11.ipynb
+
+
+Top 10 parameter sets:
+0.91349 => 1: 0.9086 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.18416666666666667), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.73, 'reg_lambda': 3.05, 'subsample': 0.8}
+2: 0.9086 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.18416666666666667), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.68, 'reg_lambda': 3.05, 'subsample': 0.8}
+3: 0.9086 => params={'colsample_bytree': 0.6, 'gamma': 0.44, 'learning_rate': np.float64(0.16083333333333333), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 344, 'reg_alpha': 0.73, 'reg_lambda': 3.05, 'subsample': 0.8}
+4: 0.9085 => params={'colsample_bytree': 0.6, 'gamma': 0.44, 'learning_rate': np.float64(0.16083333333333333), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.73, 'reg_lambda': 3.05, 'subsample': 0.8}
+5: 0.9085 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.17833333333333334), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 344, 'reg_alpha': 0.68, 'reg_lambda': 2.93, 'subsample': 0.8}
+6: 0.9085 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.17833333333333334), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.68, 'reg_lambda': 2.93, 'subsample': 0.8}
+7: 0.9085 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.18416666666666667), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 344, 'reg_alpha': 0.73, 'reg_lambda': 3.05, 'subsample': 0.8}
+8: 0.9083 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.18416666666666667), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 344, 'reg_alpha': 0.68, 'reg_lambda': 3.05, 'subsample': 0.8}
+9: 0.9083 => params={'colsample_bytree': 0.6, 'gamma': 0.44, 'learning_rate': np.float64(0.16083333333333333), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.68, 'reg_lambda': 3.05, 'subsample': 0.8}
+10: 0.9083 => params={'colsample_bytree': 0.6, 'gamma': 0.54, 'learning_rate': np.float64(0.17833333333333334), 'max_depth': 3, 'min_child_weight': 4.5, 'n_estimators': 346, 'reg_alpha': 0.73, 'reg_lambda': 2.93, 'subsample': 0.8}

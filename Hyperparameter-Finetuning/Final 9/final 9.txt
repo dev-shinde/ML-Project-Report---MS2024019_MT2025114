@@ -1,0 +1,8 @@
+
+Top 10 parameter sets:
+1: 0.9082 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.17, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 360, 'reg_alpha': 0.8, 'reg_lambda': 3.25, 'subsample': 0.8}
+2: 0.9082 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.19, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.8, 'reg_lambda': 3.5, 'subsample': 0.8}
+3: 0.9081 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.19, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 360, 'reg_alpha': 0.7, 'reg_lambda': 3.1, 'subsample': 0.8}
+0.91267 => 4: 0.9081 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.19, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.7, 'reg_lambda': 3.1, 'subsample': 0.8}
+5: 0.9080 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.19, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 330, 'reg_alpha': 0.8, 'reg_lambda': 3.25, 'subsample': 0.8}
+6: 0.9080 => params={'colsample_bytree': 0.6, 'gamma': 0.5, 'learning_rate': 0.19, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 330, 'reg_alpha': 0.8, 'reg_lambda': 3.5, 'subsample': 0.8}

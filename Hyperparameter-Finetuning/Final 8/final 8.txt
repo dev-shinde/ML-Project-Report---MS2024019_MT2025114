@@ -1,0 +1,12 @@
+
+Top 10 parameter sets:
+1: 0.9083 => params={'colsample_bytree': 0.7, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 350, 'reg_alpha': 0.8, 'reg_lambda': 2.7, 'subsample': 0.8}
+2: 0.9083 => params={'colsample_bytree': 0.6, 'gamma': 0.4, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 350, 'reg_alpha': 0.8, 'reg_lambda': 2.7, 'subsample': 0.8}
+0.91239 => 3: 0.9082 => params={'colsample_bytree': 0.6, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.8, 'reg_lambda': 3.0, 'subsample': 0.8}
+4: 0.9081 => params={'colsample_bytree': 0.6, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.6, 'reg_lambda': 2.7, 'subsample': 0.8}
+5: 0.9081 => params={'colsample_bytree': 0.6, 'gamma': 0.4, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 350, 'reg_alpha': 0.6, 'reg_lambda': 2.7, 'subsample': 0.8}
+6: 0.9081 => params={'colsample_bytree': 0.6, 'gamma': 0.4, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 350, 'reg_alpha': 0.6, 'reg_lambda': 3.0, 'subsample': 0.8}
+7: 0.9079 => params={'colsample_bytree': 0.6, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.8, 'reg_lambda': 2.7, 'subsample': 0.8}
+8: 0.9079 => params={'colsample_bytree': 0.6, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 350, 'reg_alpha': 0.6, 'reg_lambda': 2.7, 'subsample': 0.8}
+9: 0.9079 => params={'colsample_bytree': 0.7, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.8, 'reg_lambda': 2.7, 'subsample': 0.8}
+10: 0.9078 => params={'colsample_bytree': 0.6, 'gamma': 0.4, 'learning_rate': 0.15, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 340, 'reg_alpha': 0.8, 'reg_lambda': 2.7, 'subsample': 0.8}
